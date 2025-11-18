@@ -1,5 +1,5 @@
 <!-- Intro Banner -->
-<h1 align="center">Hi there, I'm Theodore Abbey 👋</h1>
+<h1 align="center">Hi there, I'm Theodore Gyaqueh Abbey 👋</h1>
 <h3 align="center">Mobile & Web App Developer | Computer Science Student | University of Ghana</h3>
 
 ---
@@ -46,8 +46,8 @@ Built with **React Native + Expo**, enabling students to **report and locate los
 
 ### 🌐 Connect With Me
 
-<p>
-  <a href="www.linkedin.com/in/theodore-abbey" target="_blank">
+<p> 
+  <a href="https://www.linkedin.com/in/theodore-abbey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://github.com/theodoreabbey173" target="_blank">

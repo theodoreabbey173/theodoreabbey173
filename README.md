@@ -31,7 +31,7 @@
 
 #### 🎒 CampusFinder – Lost & Found Mobile App  
 Built with **React Native + Expo**, enabling students to **report and locate lost items** on campus with secure messaging and location-based item tracking.  
-🔗 #### 🎒 [CampusFinder – Lost & Found Mobile App](https://github.com/theodoreabbey174/CampusFinder)
+🔗[CampusFinder – Lost & Found Mobile App](https://github.com/theodoreabbey173/CampusFinder)
 
 
 ---

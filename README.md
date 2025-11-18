@@ -29,14 +29,6 @@
 
 ### 📌 Featured Projects
 
-#### 🚀 YOSA – Team Collaboration & Project Management Platform  
-A platform for **seamless task tracking and communication** with real-time updates and secure cross-platform access.  
-🔗 *Coming Soon*
-
-#### 🏫 ClassPulse – Smart Class Attendance System  
-A responsive **web app for real-time class check-ins** and attendance analytics.  
-🔗 *Coming Soon*
-
 #### 🎒 CampusFinder – Lost & Found Mobile App  
 Built with **React Native + Expo**, enabling students to **report and locate lost items** on campus with secure messaging and location-based item tracking.  
 🔗 *Coming Soon*

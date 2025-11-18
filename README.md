@@ -47,7 +47,7 @@ Built with **React Native + Expo**, enabling students to **report and locate los
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/theodoreabbey" target="_blank">
+  <a href="www.linkedin.com/in/theodore-abbey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://github.com/theodoreabbey174" target="_blank">

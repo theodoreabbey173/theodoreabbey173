@@ -38,8 +38,8 @@ Built with **React Native + Expo**, enabling students to **report and locate los
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theodoreabbey174&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodoreabbey174&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theodoreabbey173&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodoreabbey173&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---

@@ -50,7 +50,7 @@ Built with **React Native + Expo**, enabling students to **report and locate los
   <a href="www.linkedin.com/in/theodore-abbey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
-  <a href="https://github.com/theodoreabbey174" target="_blank">
+  <a href="https://github.com/theodoreabbey173" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
 </p>

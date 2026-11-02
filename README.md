@@ -5,7 +5,7 @@
 ---
 
 ### ✨ About Me
-- 🎓 B.Sc. Computer Science student at **University of Ghana**, graduating **August 2026**
+- 🎓 B.Sc. Computer Science student at **University of Ghana**
 - 💡 Focus: **Data Science & Software Engineering**
 - 💻 I enjoy building innovative solutions, especially in **mobile & web development**
 - 🌍 Passionate about technology that solves real problems in Africa
